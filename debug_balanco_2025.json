@@ -1,0 +1,674 @@
+{
+    "resumo_operacional": {
+        "receita_total": 5521402.62,
+        "despesa_real_operacao": 3884464.54,
+        "resultado_operacional": 1636938.08,
+        "status": "SUPERÁVIT"
+    },
+    "receitas_detalhadas": [
+        {
+            "nome_receita": "Adiantamento - Cliente YPFB",
+            "total_geral": 5521402.62,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Outubro",
+                    "ano_recebimento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 1978875.61
+                },
+                {
+                    "mes": "Novembro",
+                    "ano_recebimento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 1389533.04
+                },
+                {
+                    "mes": "Dezembro",
+                    "ano_recebimento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 1646662.96
+                },
+                {
+                    "mes": "Janeiro",
+                    "ano_recebimento": 2026,
+                    "ano_competencia": 2025,
+                    "valor": 506331.01
+                }
+            ]
+        }
+    ],
+    "investimentos_detalhados": [
+        {
+            "nome_investimento": "Boletas de Garantia -  YPFB",
+            "total_geral": 2000000.0,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Março",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 2000000.0
+                }
+            ]
+        },
+        {
+            "nome_investimento": "Capitalização",
+            "total_geral": 9455.67,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Novembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 9455.67
+                }
+            ]
+        }
+    ],
+    "despesas_detalhadas": [
+        {
+            "nome_despesa": "Compras de Material para Revenda",
+            "total_geral": 1318130.33,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Setembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 8785.65
+                },
+                {
+                    "mes": "Outubro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 195711.92
+                },
+                {
+                    "mes": "Novembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 449696.36
+                },
+                {
+                    "mes": "Dezembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 663936.4
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Saldo de Salários",
+            "total_geral": 868457.42,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Julho",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 91061.47
+                },
+                {
+                    "mes": "Agosto",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 97186.67
+                },
+                {
+                    "mes": "Setembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 94995.0
+                },
+                {
+                    "mes": "Outubro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 185472.0
+                },
+                {
+                    "mes": "Novembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 202629.0
+                },
+                {
+                    "mes": "Dezembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 197113.28
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Serviços Tomados",
+            "total_geral": 366772.71,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Julho",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 224.0
+                },
+                {
+                    "mes": "Agosto",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 20000.0
+                },
+                {
+                    "mes": "Setembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 38944.7
+                },
+                {
+                    "mes": "Outubro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 143840.0
+                },
+                {
+                    "mes": "Novembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 51085.55
+                },
+                {
+                    "mes": "Dezembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 112678.46
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Compra de Material de Uso e Consumo",
+            "total_geral": 342277.35,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Setembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 11857.23
+                },
+                {
+                    "mes": "Outubro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 29133.26
+                },
+                {
+                    "mes": "Novembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 255837.65
+                },
+                {
+                    "mes": "Dezembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 45449.21
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Frete",
+            "total_geral": 163471.1,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Outubro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 42537.06
+                },
+                {
+                    "mes": "Novembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 120934.04
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Despesas com locação de equipamentos",
+            "total_geral": 133167.31,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Novembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 64809.64
+                },
+                {
+                    "mes": "Dezembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 68357.67
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Despesas de Viagens",
+            "total_geral": 127248.25,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Julho",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 1000.0
+                },
+                {
+                    "mes": "Agosto",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 62701.43
+                },
+                {
+                    "mes": "Setembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 2577.65
+                },
+                {
+                    "mes": "Outubro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 18867.93
+                },
+                {
+                    "mes": "Novembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 21050.62
+                },
+                {
+                    "mes": "Dezembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 21050.62
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Despesas com Exportação",
+            "total_geral": 112199.74,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Dezembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 112199.74
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Despesas extras",
+            "total_geral": 89657.14,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Novembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 9638.55
+                },
+                {
+                    "mes": "Dezembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 80018.59
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Máquinas e Equipamentos",
+            "total_geral": 54318.0,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Setembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 54318.0
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Férias Normais",
+            "total_geral": 50414.0,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Dezembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 50414.0
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Seguros Diversos",
+            "total_geral": 49115.84,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Agosto",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 35666.32
+                },
+                {
+                    "mes": "Setembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 10159.61
+                },
+                {
+                    "mes": "Novembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 3289.91
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Comissão De Representante",
+            "total_geral": 43320.0,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Dezembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 43320.0
+                }
+            ]
+        },
+        {
+            "nome_despesa": "13º Salário",
+            "total_geral": 34319.01,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Novembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 11520.0
+                },
+                {
+                    "mes": "Dezembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 22799.01
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Taxa - Compra de Moeda",
+            "total_geral": 33391.81,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Agosto",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 3343.03
+                },
+                {
+                    "mes": "Setembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 6728.43
+                },
+                {
+                    "mes": "Outubro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 3534.18
+                },
+                {
+                    "mes": "Novembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 1554.73
+                },
+                {
+                    "mes": "Dezembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 18231.44
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Encargos de Importação",
+            "total_geral": 32773.61,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Outubro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 8449.69
+                },
+                {
+                    "mes": "Novembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 24323.92
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Compras de Materia Prima",
+            "total_geral": 22915.63,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Dezembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 22915.63
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Assistência Médica",
+            "total_geral": 7999.52,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Novembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 7999.52
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Segurança do trabalho (Uniforme e EPI)",
+            "total_geral": 7506.0,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Setembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 1836.0
+                },
+                {
+                    "mes": "Outubro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 5670.0
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Locação de Veículos",
+            "total_geral": 5328.97,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Junho",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 1505.4
+                },
+                {
+                    "mes": "Julho",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 3823.57
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Equipamentos de Informática",
+            "total_geral": 4200.0,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Setembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 4200.0
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Impostos",
+            "total_geral": 3921.69,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Novembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 3921.69
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Despesas com sistema de gestão",
+            "total_geral": 3373.91,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Outubro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 1942.27
+                },
+                {
+                    "mes": "Dezembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 1431.64
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Móveis e Utensílios",
+            "total_geral": 3074.0,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Setembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 3074.0
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Cartórios",
+            "total_geral": 2543.27,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Setembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 635.75
+                },
+                {
+                    "mes": "Dezembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 1907.52
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Rescisões",
+            "total_geral": 2272.23,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Dezembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 2272.23
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Tarifas Bancárias",
+            "total_geral": 1334.45,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Novembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 1334.45
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Vale Transporte",
+            "total_geral": 880.0,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Outubro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 880.0
+                }
+            ]
+        },
+        {
+            "nome_despesa": "Telefone e Internet",
+            "total_geral": 81.27,
+            "detalhamento_mensal": [
+                {
+                    "mes": "Dezembro",
+                    "ano_pagamento": 2025,
+                    "ano_competencia": 2025,
+                    "valor": 81.27
+                }
+            ]
+        }
+    ],
+    "total_amaurilio": {
+        "nome": "TOTAL AMAURILIO",
+        "total_geral": 1383034.81,
+        "detalhamento_mensal": [
+            {
+                "mes": "Julho",
+                "ano_pagamento": 2025,
+                "ano_competencia": 2025,
+                "valor": 1505.4
+            },
+            {
+                "mes": "Agosto",
+                "ano_pagamento": 2025,
+                "ano_competencia": 2025,
+                "valor": 3823.57
+            },
+            {
+                "mes": "Setembro",
+                "ano_pagamento": 2025,
+                "ano_competencia": 2025,
+                "valor": 245411.73
+            },
+            {
+                "mes": "Outubro",
+                "ano_pagamento": 2025,
+                "ano_competencia": 2025,
+                "valor": 417706.63
+            },
+            {
+                "mes": "Novembro",
+                "ano_pagamento": 2025,
+                "ano_competencia": 2025,
+                "valor": 295527.45
+            },
+            {
+                "mes": "Dezembro",
+                "ano_pagamento": 2025,
+                "ano_competencia": 2025,
+                "valor": 419060.03
+            }
+        ]
+    }
+}
