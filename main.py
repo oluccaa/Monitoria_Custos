@@ -1,17 +1,16 @@
 from core.config import settings
-from application.sync_service import SyncBalancoService # <-- Sem o "ç"
+from infrastructure.file_watcher import iniciar_monitoramento
 
 def main():
     try:
-        # 1. Valida se o .env está configurado corretamente
+        # 1. Valida .env
         settings.validate()
         
-        # 2. Instancia e roda o serviço
-        servico = SyncBalancoService() # <-- Sem o "ç"
-        servico.executar_sincronizacao()
+        # 2. Inicia o modo de observação contínua
+        iniciar_monitoramento()
 
     except Exception as e:
-        print(f"[FALHA CRÍTICA] Ocorreu um erro na execução: {e}")
+        print(f"[FALHA CRÍTICA] Erro ao iniciar sistema: {e}")
 
 if __name__ == "__main__":
     main()
